@@ -2,4 +2,4 @@
 
 ## Implementação Web Site com a Rocketseat
 
-### Em 02/06/2020 Level I.
+![Processo da aplicação](assets/NLW.gif)
